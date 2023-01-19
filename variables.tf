@@ -6,5 +6,3 @@ variable "linode_region" {}
 variable "linode_type" {}
 variable "linode_tags" {}
 # variable "linode_root_pass" {}
-variable "cloudflare_token" {}
-variable "cloudflare_zone_id" {}
